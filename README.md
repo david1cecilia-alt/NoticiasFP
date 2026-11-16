@@ -1,6 +1,8 @@
 # Noticias FP · Material Design
 
-Práctica de la Unidad 2 (bloque 3) del módulo 0489 *Programación multimedia y dispositivos móviles* (DAM).
+Práctica de la Unidad 2 (bloque 3) del módulo 0489 *Programación multimedia y dispositivos móviles* (2.º DAM).
+
+**Integrantes:** Sergio Salido, David Cecilia y Sergio Lastras.
 
 Es un periódico de clase hecho en Android (Java y layouts XML) con componentes de Material 3:
 
@@ -15,7 +17,7 @@ Es un periódico de clase hecho en Android (Java y layouts XML) con componentes 
 |---|---|---|
 | ![Portada](capturas/01_arranque.png) | ![Panel](capturas/03_panel_abierto.png) | ![Oscuro](capturas/10_modo_oscuro.png) |
 
-Las pruebas completas, las respuestas a las preguntas y la explicación de las ampliaciones están en [ENTREGA.md](ENTREGA.md).
+Las pruebas completas, las respuestas a las preguntas y la explicación de las ampliaciones están en [ENTREGA.md](ENTREGA.md). El documento del grupo en PDF está en [docs/](docs/NoticiasFP_MaterialDesign_Grupo.pdf).
 
 ## Ejecutar
 
